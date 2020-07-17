@@ -11,16 +11,7 @@
  </head>
  <body>
      <header>
-     <h1>Chris Navoczynski: IT162 Portal Website</h1>
-     <nav class="topnav" id="myTopnav">
-       <a href="index.php" class="active">Welcome</a>
-       <a href="big/index.php">BIG</a>
-       <a href="aia.php">AIA</a>
-       <a href="flowchart.php">Flowchart</a>
-       <a href="fp/index.php">Final Project</a>
-       <a href="contactme.php">Contact Chris</a>
-       <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
-    </nav>
+     <?php include('includes/header.php');?>  
      </header>
      
    <main class="wrapper">
@@ -31,23 +22,12 @@
 <p class="clear-recaptcha"></p>    
       
 
-     <footer>
-      <p><small>&copy; 2020 by <a href="contactme.php">Contact Chris Navoczynski</a>, All Rights Reserved ~ <a href="http://validator.w3.org/check/referer" target="_blank">Valid HTML</a> ~ <a href="http://jigsaw.w3.org/css-validator/check?uri=referer" target="_blank">Valid CSS</a></small></p>
+    <footer>
+     <?php include('includes/footer.php');?>
     </footer>
   </main>
      
-  <!-- Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon -->
-     
-  <script>
-    function myFunction() {
-        var x = document.getElementById("myTopnav");
-        if (x.className === "topnav") {
-            x.className += " responsive";
-        } else {
-            x.className = "topnav";
-        }
-    }   
-  </script>
+  <?php include('includes/script.php');?>
      
  </body>
 </html>
