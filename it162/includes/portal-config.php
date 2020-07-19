@@ -19,7 +19,15 @@ switch(THIS_PAGE) {
 
     case 'index.php':
         $title = "Chris' IT162 Title Page";
-    break;  
+    break;
+    
+    case 'aia.php':
+        $title = "Chris' AIA Page";
+    break;
+    
+    case 'flowchart.php':
+        $title = "Chris' Flowchart Page";
+    break;
     
     case 'contactme.php':
         $title = "Chris' Contact Page";
