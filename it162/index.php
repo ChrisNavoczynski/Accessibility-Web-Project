@@ -1,18 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
- <head>
-    <title>Chris Navoczynski: IT162 Portal Website</title>
-  <meta charset="utf-8" />
-  <meta name="robots" content="noindex,nofollow" />
-  <meta name="viewport" content="width=device-width" />
-  <link rel="stylesheet" href="css/portal.css" />
-  <link rel="stylesheet" href="css/nav.css" />
- </head>
- <body>
-   <header>
-    <?php include('includes/header.php');?>
-   </header>
-     
+<?php include('includes/header.php');?>
+
+  <body>  
    <main class="wrapper">
      
      <img class="desktop" src="images/desktop.jpg" alt="Photo of an adorable GSD puppy" />
@@ -53,9 +41,9 @@
        I will want to do but only time will tell. </p>
 
 
-    <footer>
-      <?php include('includes/footer.php');?>  
-    </footer>
+
+    <?php include('includes/footer.php');?>  
+
   </main>
      
   <?php include('includes/script.php');?>
