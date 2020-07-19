@@ -15,26 +15,37 @@ define('THIS_PAGE', basename ($_SERVER['PHP_SELF']));
 
 //die;
 
+$logo_color = ' ';
+
 switch(THIS_PAGE) {
 
     case 'index.php':
         $title = "Chris' IT162 Title Page";
+        $logo = "fa-home";
+        $logo_color = 'style="color:#008B8B"';
     break;
-    
+
     case 'aia.php':
         $title = "Chris' AIA Page";
+        $logo = "fa-universal-access";
+        $logo_color = 'style="color:#9999CC"';
     break;
     
     case 'flowchart.php':
         $title = "Chris' Flowchart Page";
+        $logo = "fa-columns";
+        $logo_color = 'style="color:#D2B48C"';
     break;
     
     case 'contactme.php':
         $title = "Chris' Contact Page";
+        $logo = "fa-envelope";
+        $logo_color = 'style="color:#FFA07A"';
     break; 
 
     default:
         $title = THIS_PAGE;
+        $logo = '';
         
 }
 

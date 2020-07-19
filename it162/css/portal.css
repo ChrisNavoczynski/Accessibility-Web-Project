@@ -53,6 +53,14 @@ footer {
     padding: 1em;
 }
 
+/*font awesome icon styles */
+i.logo {
+    color: rgb(0,139,139);
+    text-shadow: 1px 1px #ccc;
+    font-size: 1.25em;
+    margin-left: 1%;
+}
+
 /* Responsive rules */
 
 /* DESKTOP */

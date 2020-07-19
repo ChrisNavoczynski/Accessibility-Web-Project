@@ -8,10 +8,11 @@
   <meta name="viewport" content="width=device-width" />
   <link rel="stylesheet" href="css/portal.css" />
   <link rel="stylesheet" href="css/nav.css" />
+  <script src="https://use.fontawesome.com/de7246851b.js"></script>
  </head>
 <body>
 <header>
-<h1>Chris Navoczynski: IT162 Portal Website</h1>
+<h1><i class="logo fa <?=$logo?>"<?=$logo_color?>></i> Chris Navoczynski: IT162 Portal Website</h1>
      <nav> 
       <ul class="topnav" id="myTopnav">
       <?=makeLinks($nav1)?>
