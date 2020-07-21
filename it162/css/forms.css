@@ -14,7 +14,7 @@
 			font-style:italic;
 			font-size:70%;
 			font-weight:bold;
-			color:#f00;
+			color:rgba(72, 69, 238, 0.87);
 		}
         input:required {
               border: 1px solid red;
