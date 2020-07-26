@@ -1,12 +1,7 @@
 <?php include('includes/header.php');?>
-
-  <body>  
-   <main class="wrapper">
      
-     <img class="desktop" src="images/desktop.jpg" alt="Photo of an adorable GSD puppy" />
-       
-     <img class="tablet" src="images/tablet.jpg" alt="Photo of an adorable GSD puppy" />
-       
+     <img class="desktop" src="images/desktop.jpg" alt="Photo of an adorable GSD puppy" />  
+     <img class="tablet" src="images/tablet.jpg" alt="Photo of an adorable GSD puppy" />  
      <img class="phone" src="images/phone.jpg" alt="Photo of an adorable but large GSD in the lap of his best buddy" />
        
        <h2 class="subheader">About Me</h2>
@@ -40,13 +35,4 @@
        than Computer Science.  As I just started taking classes I have yet to decide what specialized part of this major 
        I will want to do but only time will tell. </p>
 
-
-
-    <?php include('includes/footer.php');?>  
-
-  </main>
-     
-  <?php include('includes/script.php');?>
-     
- </body>
-</html>
+<?php include('includes/footer.php');?>  

@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="css/nav.css" />
   <script src="https://use.fontawesome.com/de7246851b.js"></script>
  </head>
-<body>
+  <body>
 <header>
 <h1><i class="logo fa <?=$logo?>"<?=$logo_color?>></i> Chris Navoczynski: IT162 Portal Website</h1>
      <nav> 
@@ -29,3 +29,4 @@
       </ul>
      </nav>
 </header>
+<main class="wrapper">
