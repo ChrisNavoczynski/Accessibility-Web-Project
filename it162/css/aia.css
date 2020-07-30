@@ -1,0 +1,84 @@
+h2 {
+    color: #4F7849;
+    font-weight: bold;
+}
+
+/* Table 1 Client Info CSS */
+table.clientInfo {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    border: 2px solid #4F7849;
+    background-color: #EEEEEE;
+    width: 90%;
+    text-align: left;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom: 10px;
+  }
+
+  table.clientInfo td, table.clientInfo th {
+    border: 1px solid #4F7849;
+    padding: 3px 2px;
+  }
+
+  table.clientInfo tbody td {
+    font-size: 19px;
+    font-weight: bold;
+    color: #444444;
+  }
+
+  table.clientInfo tr:nth-child(even) {
+    background: #CEE0CC;
+  }
+
+  table.clientInfo tfoot td {
+    font-size: 21px;
+  }
+
+/*------------------------------------------------
+Table 2 Aia Info CSS */
+table.aiaInfo {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    table-layout: fixed;
+    border: 2px solid #4F7849;
+    background-color: #EEEEEE;
+    width: 90%;
+    height: 300px;
+    text-align: top;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  table.aiaInfo td, table.aiaInfo th {
+    border: 1px solid #4F7849;
+    padding: 3px 2px;
+  }
+  table.aiaInfo tbody td {
+    font-size: 19px;
+    font-weight: bold;
+    color: #444444;
+  }
+  table.aiaInfo tr:nth-child(even) {
+    background: #CEE0CC;
+  }
+  table.aiaInfo thead {
+    background: #4F7849;
+    background: -moz-linear-gradient(top, #7b9a76 0%, #60855b 66%, #4F7849 100%);
+    background: -webkit-linear-gradient(top, #7b9a76 0%, #60855b 66%, #4F7849 100%);
+    background: linear-gradient(to bottom, #7b9a76 0%, #60855b 66%, #4F7849 100%);
+    border-bottom: 1px solid #444444;
+  }
+  table.aiaInfo thead th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+    border-left: 2px solid #D0E4F5;
+  }
+  table.aiaInfo thead th:first-child {
+    border-left: none;
+  }
+  
+  table.aiaInfo tfoot td {
+    font-size: 21px;
+  }
