@@ -1,0 +1,170 @@
+/* Global rules */
+
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+html {
+    background-color:#000;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 0.95em;
+    line-height: 1.5em;
+}
+
+::selection {
+    color: whitesmoke; 
+    background: #ff0;
+}
+
+h1 a{
+    text-decoration: none;
+}
+
+h1 {
+    font-weight: normal;
+    margin: auto;
+    background: #1F2605;
+    line-height: 2.5em;
+    text-align: center
+}
+
+main {
+    background-color: #1F2605;
+    width:80%; 
+    overflow: auto;
+    margin:auto;
+    border:1px solid black;
+}
+
+section {
+    float: left;
+    width:65%;
+    background-color:#53900F;
+    
+}
+
+aside {
+    float:right;
+    width:34%;
+    background-color:#1F6521;
+
+}
+
+address {
+    margin-left: .5em;
+    line-height: 1.5em;
+    font-style: normal;
+    
+}
+
+.fullwidth {
+    width:100%;
+}
+
+img {
+    border:1px solid #000;
+}
+
+div.gallery {
+    text-align: center;
+}
+
+figure.gallery {
+  display:inline-block;
+  margin:.25%;
+}
+
+
+figure.smo{
+  
+  border:1px solid #000;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  text-align: center;
+  margin:1%;
+  padding-top: 1em;
+}
+
+
+
+ 
+
+/*START -EMBED RESPONSIVELY STYLES */
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+/*END - EMBED RESPONSIVELY STYLES */
+
+/* Calendar rule for desktop */
+div.embed-container.agenda-view {
+    display: none;
+}
+
+p {
+    margin: 1em; /* Top Right Bottom Left (TRBL) */
+}
+
+h2,h3,h4 {
+    font-weight: bold;
+    margin-left: 1em;
+    line-height: 1em;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000;
+    background-color: #D6CE15;
+    text-decoration: none;
+}
+
+footer {
+    padding:1em;
+    background-color: #A4A71E;
+    text-align: center;
+    clear:both;
+}
+
+/* MOBLE STYLES */
+@media all and (max-width:600px) {
+   
+   main {
+    background-color:#1F2605;
+    width:100%; 
+    border:1px solid black;
+    
+    }
+    section {
+        float:none;
+        width:100%;
+        
+    }
+
+    aside {
+        float:none;
+        width:100%;
+    }
+}
+/*Calendar Rules for phone */
+@media all and (max-width: 1300px) {   
+    div.embed-container.agenda-view {
+        display:block;
+    }
+    div.embed-container.month-view {
+        display:none;
+    }
+}

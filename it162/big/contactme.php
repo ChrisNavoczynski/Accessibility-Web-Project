@@ -1,7 +1,9 @@
 <link rel="stylesheet" href="css/forms.css" />
 <?php include('includes/header.php');?>  
 
-<h1>Contact Chris</h1>
+<div class = "formcss">
+  <h2>Contact Chris</h2>
+</div>
 <?php
         /*
          * Below are 2 different forms to be re-used       
@@ -23,7 +25,4 @@
        
 <p class="clear-recaptcha"></p>    
       
-
-
 <?php include('includes/footer.php');?>
-
