@@ -1,5 +1,5 @@
-<?php include('big/includes/header.php');?>
+<?php include('includes/header.php');?>
 
 
 
-<?php include('big/includes/footer.php');?>
+<?php include('includes/footer.php');?>

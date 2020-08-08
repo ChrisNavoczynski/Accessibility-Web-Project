@@ -30,9 +30,10 @@
         <!--Drop Down Menu for Research Topic Pages --> 
         <li><a href="#">Research Topics</a>
          <ul>
-            <li><a href="smo.php"><i class="fa fa-fw fa-chain"></i> SMO</a></li>
-            <li><a href="accessibility.php"><i class="fa fa-fw fa-globe"></i> Accessibility</a></li>
-            <li><a href="forms.php"><i class="fa fa-fw fa-file-text-o"></i> Forms</a></li>
+            <li><a href="smo.php"><i class= "fa fa-fw fa-laptop"></i> Responsive/ Mobile</a></li>
+            <li><a href="accessibility.php"><i class="fa fa-fw fa-camera"></i> Galleries</a></li>
+            <li><a href="forms.php"><i class="fa fa-fw fa-columns"></i> FlexBox</a></li>
+            <li><a href="shoppingcart.php"><i class="fa fa-fw fa-shopping-cart"></i> Shopping Cart</a></li>
          </ul>
         </li>
         
@@ -40,7 +41,7 @@
         <!--Drop Down Menu for Google Tool pages -->
         <li><a href="#">Google Tools</a>
             <ul>
-               <li><a href="seo.php"><i class="fa fa-fw fa-television"></i> SEO</a></li>
+               <li><a href="accessibility.php"><i class="fa fa-fw fa-globe"></i> Web Accessibility</a></li>
                <li><a href="calendar.php"><i class="fa fa-fw fa-calendar"></i> Calendar</a></li>
                <li><a href="map.php"><i class="fa fa-fw fa-map-o"></i> Map</a></li>
             </ul>

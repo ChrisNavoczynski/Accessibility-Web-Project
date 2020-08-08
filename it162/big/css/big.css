@@ -45,7 +45,14 @@ aside {
     float:right;
     width:34%;
     background-color:#1F6521;
+}
 
+.ainfo {
+    font-weight: bold;
+}
+
+.linkscss {
+    line-height: 2;
 }
 
 address {
@@ -83,9 +90,6 @@ figure.smo{
   margin:1%;
   padding-top: 1em;
 }
-
-
-
  
 
 /*START -EMBED RESPONSIVELY STYLES */
