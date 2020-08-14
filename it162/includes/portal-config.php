@@ -20,13 +20,13 @@ $logo_color = ' ';
 switch(THIS_PAGE) {
 
     case 'index.php':
-        $title = "Chris' IT162 Title Page";
+        $title = "Chris Navoczynski: IT162 Portal Website";
         $logo = "fa-home";
         $logo_color = 'style="color:#008B8B"';
     break;
 
     case 'aia.php':
-        $title = "Chris' AIA Page";
+        $title = "Client Audience, Issues, & Approach (AIA)";
         $logo = "fa-universal-access";
         $logo_color = 'style="color:#9999CC"';
     break;
@@ -38,7 +38,7 @@ switch(THIS_PAGE) {
     break;
     
     case 'contactme.php':
-        $title = "Chris' Contact Page";
+        $title = "Contact Chris Navoczynski";
         $logo = "fa-envelope";
         $logo_color = 'style="color:#FFA07A"';
     break; 
@@ -48,14 +48,14 @@ switch(THIS_PAGE) {
         $logo = '';
         
 }
-
+/*
 $nav1['index.php'] = "Welcome";
 $nav1['big/index.php'] = "Big";
 $nav1['aia.php'] = "AIA";
 $nav1['flowchart.php'] = "Flowchart";
 $nav1['fp/index.php'] = "Final Project";
 $nav1['contactme.php'] = "Contact Chris";
-
+*/
 /*
 Here we are creating a function to generate links 
 and keep the highlight on the current page. 
@@ -66,8 +66,8 @@ and keep the highlight on the current page.
        <a href="flowchart.php">Flowchart</a>
        <a href="fp/index.php">Final Project</a>
        <a href="contactme.php">Contact Chris</a>
-
 */
+
 
 function makeLinks($nav1)
  {

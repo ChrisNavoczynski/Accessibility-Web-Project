@@ -19,8 +19,14 @@
         /*padding-top:5px;*/
     }
 
-    .introcss {
+    .intro {
         font-size: 14pt;
+        font-weight: bold;
+        
+    }
+
+    .welcome {
+        padding: 0px 100px 0px 100px;
     }
 
     .dateFeedback{

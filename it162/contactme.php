@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="css/forms.css" />
 <?php include('includes/header.php');?>  
 
-<h1>Contact Chris</h1>
+<h1>Contact Me</h1>
 <?php
         /*
          * Below are 2 different forms to be re-used       

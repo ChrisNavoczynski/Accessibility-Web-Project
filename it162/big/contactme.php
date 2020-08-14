@@ -1,14 +1,15 @@
 <link rel="stylesheet" href="css/forms.css" />
 
 <section>
-<div class = "formcss">
-<h2>Welcome to Chris' BIG IT162 Page!<h2>
-  <div class = "introcss">
-  <p> Please take a moment to answer a few questions below 
-    or feel free to explore to the rest of the Website. 
-    Your comments and feedback are appreciated.</p>
-  </div>
-  <h3>Contact Information</h3>
+<div class = "intro">
+  <h2>Welcome to Chris' BIG IT162 Page!</h2>
+   <div class = "welcome">
+   <p>Please take a moment to answer a few questions below 
+   or feel free to explore to the rest of the Website. 
+   Your comments and feedback are appreciated.</p>
+   </div>
+<br>
+  <h3>Client Contact Information</h3>
 </div>
 <?php
         /*
@@ -31,8 +32,10 @@
        
 <p class="clear-recaptcha"></p> 
 </section>
+
 <aside>
-<h2>Some of My Favorite Web Resources</h2>
+<div class = 'ainfo'>
+<h3>Some Favorite Web Resources</h3>
     <div class = "linkscss">    
     <ul>
       <li><a href="https://www.w3schools.com/" target="_blank">w3schools</a></li>
@@ -40,5 +43,7 @@
       <li><a href="https://www.edx.org/learn/web-development" target="_blank">edX</a></li>
     </ul>
     </div>
+</div>
+<br>
 </aside>
 

@@ -52,14 +52,14 @@
         <input type="checkbox" name="Interested_In[]" value="Building a New Website" tabindex="40" />Building a New Website <br />
         <input type="checkbox" name="Interested_In[]" value="Website Redesign" />CSS Responsive Design Ideas <br />
         <input type="checkbox" name="Interested_In[]" value="Special Application" />More Research Topic Related Info <br />
-        <input type="checkbox" name="Interested_In[]" value="What is on the Horizon" />What my Plans are for this Website <br />
+        <input type="checkbox" name="Interested_In[]" value="What is on the Horizon" />My Future Plans for this Website <br />
         <input type="checkbox" name="Interested_In[]" value="Other" />Other Options<br />
     </fieldset>
 </div>
 
     <div>	
     <fieldset>
-        <legend>Would you like to join my mailing list?</legend>
+        <legend>Would you like join the email list for future updates & resources? </legend>
         <input type="radio" name="Join_Mailing_List?" value="Yes" 
         required="required" title="Mailing list is required" tabindex="50"  
         /> Yes <br />

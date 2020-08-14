@@ -53,7 +53,7 @@
 }
 #cssmenu > ul > li > a {
   padding: 17px;
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 1px;
   text-decoration: none;
   color: #dddddd;
@@ -131,8 +131,8 @@
 #cssmenu ul ul li a {
   border-bottom: 1px solid rgba(150, 150, 150, 0.15);
   padding: 11px 15px;
-  width: 170px;
-  font-size: 12px;
+  width: 200px;
+  font-size: 14px;
   text-decoration: none;
   color: #dddddd;
   font-weight: 400;
@@ -144,7 +144,8 @@
 }
 #cssmenu ul ul li:hover > a,
 #cssmenu ul ul li a:hover {
-  color: #ffffff;
+  color: #D6CE15;
+  text-transform: uppercase;
 }
 #cssmenu ul ul li.has-sub > a:after {
   position: absolute;
@@ -221,8 +222,10 @@
 }
 #cssmenu.small-screen ul ul li:hover > a,
 #cssmenu.small-screen ul ul li.active > a {
-  color: #ffffff;
+  color: #D6CE15;
+  background-color: #1F2605;
 }
+
 #cssmenu.small-screen ul ul,
 #cssmenu.small-screen ul ul ul,
 #cssmenu.small-screen.align-right ul ul {
