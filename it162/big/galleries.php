@@ -13,21 +13,27 @@ target="_blank">Gallery.js</a>
     <ul>
         <li>Helps create a thumbnail grid with an expanding large image preview.</li>
     </ul>
-</li>    
+    <p></p>
+</li>
+    
 <li><a href="https://www.cssscript.com/css-only-minimal-responsive-image-gallery-lightbox-cssbox/"
 target="_blank">CSSbox</a>
     <ul>
         <li>A lightbox where the user is able to navigate between full sized images
             in a full screen lightbox popup.</li>
     </ul>
+    <p></p>
 </li>
+
 <li><a href="https://www.cssscript.com/pure-css-photo-gallery-image-lightbox-support/"
 target="_blank">Pure CSS Photo Gallery</a>
     <ul>
         <li>A responsive CSS based photo gallery for your portfolio website with the 
             ability to view the large image version in a lightbox.</li>
     </ul>
+    <p></P>
 </li>
+
 <li><a href="https://www.webappers.com/2016/01/15/philter-control-css-filters-with-html-attributes/"
 target="_blank">Philter</a>
     <ul>
@@ -53,21 +59,27 @@ target="_blank">Turntable.js</a>
         <li>A responsive JQuery slider that helps with rotation of images like a 
             flipbook</li>
     </ul>
+    <p></P>
 </li>
+
 <li><a href="https://www.webappers.com/2015/11/26/slidedeck-3-lite-responsive-content-slider/"
 target="_blank">SlideDeck 3</a>
     <ul>
         <li>To provide a flashy presentation of images that catches a visitor's eye to 
             any one's website.</li>
     </ul>
+    <p></p>
 </li>
+
 <li><a href="https://www.webappers.com/2015/09/10/chocolat-js-jquery-responsive-lightbox-plugin/"
 target="_blank">Chocolat.js</a>
     <ul>
         <li>Enables you to display one to several images staying on the same while 
             page.</li>
     </ul>
+    <p></p>
 </li>
+
 <li><a href="https://codecanyon.net/item/unleash-jquery-responsive-accordion-slider/1851823?irgwc=1&clickid=2Ij1LKQ9sxyORPEwUx0Mo36HUkiWSIxtR3yJ040&iradid=275988&irpid=1229170&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_1229170&utm_medium=affiliate&utm_source=impact_radius"
 target="_blank">Unleash 3</a>
     <ul>
@@ -85,19 +97,25 @@ target="_blank">Swiper</a>
     <ul>
         <li>A free modern mobile touch slider, great for building iOS apps.</li>
     </ul>
+    <p></p>
 </li>
+
 <li><a href="https://slidesjs.com/"
 target="_blank">SlidesJS</a>
     <ul>
         <li>A fully mobile, responsive with CSS3 transitions site</li>
     </ul>
+    <p></p>
 </li>
+
 <li><a href="https://bxslider.com/"
 target="_blank">bxSlider</a>
     <ul>
         <li>A free responsive option with thumbnail pager support.</li>
     </ul>
+    <p></p>
 </li>
+
 <li><a href="http://kenwheeler.github.io/slick/"
 target="_blank">Slick</a>
     <ul>
@@ -106,6 +124,7 @@ target="_blank">Slick</a>
 </li>
 </ul>
 <br>
+
 <h3>Sample Instructional Videos</h3>
 <p>Always be sure to check out online video outlets, such as YouTube, for more options
     and demos to creating beautiful galleries and eye-catching Jsliders.</p>

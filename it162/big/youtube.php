@@ -11,6 +11,7 @@
 
     <!-- START RIGHT COLUMN -->
     <aside>
+    <div class = "ainfo">
     <h2>Additional Website Accessibility Resources</h2>
         <div class = "linkscss">
         <ul>
@@ -21,6 +22,7 @@
            Accessibility Handbook</a></li>
         </ul>
         </div>
+    </div>
     <br>
     </aside>
     <!-- END RIGHT COLUMN -->
