@@ -6,15 +6,13 @@
         <!-- Show/Hide Month View Calendar -->
         <div class='month-view embed-container'>
         <iframe src="https://calendar.google.com/calendar/embed?height=650&amp;wkst=1&amp;bgcolor=%23a4a71e&amp;ctz=America%2FLos_Angeles&amp;src=YWs3OTRhYmZnczdsM21lMmczNDk4YXY0dDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%230B8043&amp;showTitle=0" 
-        style="border:solid 1px #777" width="800" height="650" frameborder="0" 
-        scrolling="no"></iframe>
+        style="border:solid 1px #777" width="800" height="650"></iframe>
         </div>
         
         <!-- Show/Hide Agenda View Calendar -->
         <div class='agenda-view embed-container'>
         <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23a4a71e&amp;ctz=America%2FLos_Angeles&amp;src=YWs3OTRhYmZnczdsM21lMmczNDk4YXY0dDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%230B8043&amp;showTitle=0&amp;mode=AGENDA" 
-        style="border:solid 1px #777" width="800" height="600" frameborder="0" 
-        scrolling="no"></iframe>
+        style="border:solid 1px #777" width="800" height="600"></iframe>
         </div>
     </section>
     <!-- END LEFT COLUMN -->
@@ -41,7 +39,7 @@
         <p>The event happens virtually, starting 11am and goes until 2pm PST both  
             Saturday the 22nd and Sunday the 23rd of August. Click on the calendar or the 
             link below for more details. Any questions? Contact 
-            the Seattle Center at <a href="tel:12066847200" line-height="1.5em">(206) 684-7200</a></p>  
+            the Seattle Center at <a href="tel:12066847200">(206) 684-7200</a></p>  
             <ul>
             <li><a href="http://www.seattlecenter.com/events/event-calendar/tibet-fest" 
             target="_blank">Tibet Fest</a></li>

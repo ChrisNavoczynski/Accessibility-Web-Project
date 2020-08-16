@@ -33,40 +33,45 @@
 <h3>Types of Shopping Carts</h3>
 <p>Choosing the right type of shopping cart to meet the needs of any website:</p>
 <ul>
-  <li>Full Cart - Best at providing all features to run an online store.</li>
+  <li>Full Cart - Best at providing all features to run an online store.
     <ul>
     <li>Examples: <a href="https://www.datafeedwatch.com/shopping-cart/magento?_ga=2.90593306.1216638777.1575457451-1909219698.1575457451"
     target="_blank">Magento</a> and <a href="https://www.datafeedwatch.com/shopping-cart/shopify?_ga=2.200103982.1216638777.1575457451-1909219698.1575457451"
     target="_blank">Shopify</a></li>
     </ul>
-  <br>
-  <li>Add-On Cart - The ability to add a full online store to an existing website.</li>
+    <p></p>
+  </li>
+  <li>Add-On Cart - The ability to add a full online store to an existing website.
     <ul>
     <li>Example: <a href="http://www.datafeedwatch.com/shopping-cart/woocommerce/?_ga=2.136804656.1216638777.1575457451-1909219698.1575457451"
     target="_blank">Woocommerce</a></li>
     </ul>
-  <br>
-  <li>Shopping Cart Integrations - Good for small businesses that sell only a few intems.</li>
+    <p></P>
+  </li>
+  <li>Shopping Cart Integrations - Good for small businesses that sell only a few intems.
     <ul>
     <li>Example: <a href="https://www.paypal.com/cgi-bin/webscr?cmd=p/xcl/rec/sc-techview-outside"
     target="_blank">Paypal: Free Shopping Cart</a></li>
     </ul>
-  <br>
+    <p></P>
+  </li>
   <li>Hosted Cart - A third-party provider solution that providers server management,
-      backups, and security.</li>
+      backups, and security.
     <ul>
     <li>Examples: <a href="https://www.datafeedwatch.com/shopping-cart/shopify?_ga=2.200103982.1216638777.1575457451-1909219698.1575457451"
     target="_blank">Shopify</a> and <a href="https://www.datafeedwatch.com/shopping-cart/bigcommerce?_ga=2.136804656.1216638777.1575457451-1909219698.1575457451"
     target="_blank">BigCommerce</a></li>
     </ul>
-  <br>
-  <li>Licenced Cart - A flexible option for a shopping cart to host on your own sever.</li>
+    <p></p>
+  </li>
+  <li>Licenced Cart - A flexible option for a shopping cart to host on your own sever.
     <ul>
     <li>Examples: <a href="https://www.datafeedwatch.com/shopping-cart/magento?_ga=2.90593306.1216638777.1575457451-1909219698.1575457451"
     target="_blank">Magento</a> and <a href="https://www.datafeedwatch.com/shopping-cart/opencart?_ga=2.136804656.1216638777.1575457451-1909219698.1575457451"
     target="_blank">OpenCart</a></li>
     </ul>
-</ul>>
+  </li>
+</ul>
 <br>
 
 <h3>The Importance of a Shopping Cart</h3>

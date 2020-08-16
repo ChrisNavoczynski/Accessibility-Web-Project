@@ -14,16 +14,15 @@
 <p>There are many properties to Flexbox, but layouts can be created with often very
     little code involved:</p>
 <p>Example:</p>
-
 <div class = "code">
- <code>   
- <p>.flex-container {</p>
- <p style="text-indent: 5%"> display: flex;</p>
- <p>}</p>
- </code>
+ <pre>   
+ .flex-container {
+    display: flex;
+ }
+ </pre>
 </div>
 
-<P>These few lines of code can do the following:</p>
+<p>These few lines of code can do the following:</p>
 <ul>
     <li>Considers .flex-container to be a flex container</li>
     <li>Items will be laid in a horizonal line.</li>

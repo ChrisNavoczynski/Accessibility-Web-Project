@@ -18,7 +18,7 @@ allowfullscreen></iframe>
  <h3>Seattle: DOT Webcam</h3>
 </div>
 <div class="embed-container">
-<iframe src='https://images.wsdot.wa.gov/nw/099vc03015.jpg?t=637328459658499757' alt='SR 99 at MP 30.1: S Atlantic St' style='height:250px;width:340px;'></iframe>
+<iframe src='https://images.wsdot.wa.gov/nw/099vc03015.jpg?t=637328459658499757' style='height:250px;width:340px;'></iframe>
 </div>
 <br>
 </aside>
