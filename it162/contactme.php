@@ -6,7 +6,7 @@
         /*
          * Below are 2 different forms to be re-used       
          * 
-         * Only use one at a time, comment out the other!       
+         * Only use one at a time, comment out the other!!
          *
          */
 
